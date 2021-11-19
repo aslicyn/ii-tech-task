@@ -1,0 +1,22 @@
+{
+  "Cookie": {
+    "AcceptBtn": "//button[text()='Accept']"
+  },
+
+ "Services": {
+   "ServicesBtn": "//span[@title='Services']",
+   "TradingAccountBtn": "//a[text()='Trading Account']"
+ },
+
+  "TradingAccount": {
+    "OpenAccount" : "//span[@title='Open an account']"
+  },
+
+  "Pensions": {
+    "PensionsBtn": "//span[@title='Pensions']",
+    "TransferMyPension": {
+    "TransferMyPensionBtn": "//a[text()='Transfer My Pension']",
+    "HowToTransfer": "//span[@title='How to transfer']"
+  }
+  }
+}
